@@ -2,7 +2,7 @@
 
 **Every vehicle. Every detail. Under control.** A free, open-source admin dashboard for auto repair shops and workshops, built with Next.js 16, React 19, TypeScript and Tailwind CSS v4.
 
-**[Live demo of the full version →](https://garagex-psi.vercel.app)**
+**[Live demo of the full version →](https://garagex-psi.vercel.app)** · **[Get GarageX Pro →](https://beaj5.gumroad.com/l/garagex)**
 
 ![GarageX Lite dashboard](public/screenshot.jpg)
 
@@ -15,8 +15,8 @@
 
 ## Lite vs Pro
 
-|                                                                         | Lite (free) | [Pro](https://garagex-psi.vercel.app) |
-| ----------------------------------------------------------------------- | :---------: | :-----------------------------------: |
+|                                                                         | Lite (free) | [Pro](https://beaj5.gumroad.com/l/garagex) |
+| ----------------------------------------------------------------------- | :---------: | :----------------------------------------: |
 | Dashboard, customer directory, app shell, auth screens                  |      ✓      |                   ✓                   |
 | Drag-and-drop work order board, check-in wizard, repair order workspace |             |                   ✓                   |
 | Digital vehicle inspections with condition map                          |             |                   ✓                   |

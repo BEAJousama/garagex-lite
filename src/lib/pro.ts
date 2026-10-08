@@ -1,6 +1,6 @@
 /** Where Lite sends people for the full product. Update PRO_URL once your store page is live. */
 export const DEMO_URL = "https://garagex-psi.vercel.app";
-export const PRO_URL = "https://garagex-psi.vercel.app";
+export const PRO_URL = "https://beaj5.gumroad.com/l/garagex";
 
 type ProFeature = {
   title: string;
